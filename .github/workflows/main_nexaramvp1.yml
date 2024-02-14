@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Nexaramvp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F947590DB21465C9A1CD8126D594D2E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D9E84FD73B240AB807F5256CA5EE843 }}
