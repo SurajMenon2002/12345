@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git clone <your_github_repo_url>
-cd <your_repo_name>
+git clone https://github.com/SurajMenon2002/12345.git
+cd 12345
 pip install -r requirements.txt
-python app.py &
+python main.py &
 
